@@ -1,0 +1,35 @@
+{
+  "grade-history": [
+    {
+      "subject": [
+        {
+          "subject": "math",
+          "grade": "4",
+          "credit": 1
+        },
+        {
+          "subject": "sci",
+          "grade": "3.5",
+          "credit": 1.5
+        },
+        {
+          "subject": "lng",
+          "grade": "3",
+          "credit": 2
+        },
+        {
+          "subject": "music",
+          "grade": "4",
+          "credit": 1
+        },
+        {
+          "subject": "history",
+          "grade": "3.5",
+          "credit": 1
+        }
+      ],
+      "gpax": "3.50",
+      "id": 1
+    }
+  ]
+}
